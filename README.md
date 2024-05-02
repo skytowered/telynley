@@ -1,7 +1,8 @@
 -  Hi, I’m @telynley
--  I’m interested in Network Security, Creating, Language, Technology 
+-  I’m interested in Network Security, Technology, Cybersecurity, Data Recovery 
 -  I’m currently practicing Python
--  Other personal interests: Blender, Data Recovery, OSINT, Interactive Media, Cybersecurity 
+-  Other personal interests: Blender, Speech Synthesis, OSINT, Interactive Media, Linguistics/Language, Creating
+-  In my freetime between work and school, 
 <!---
 telynley/telynley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
